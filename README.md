@@ -52,4 +52,9 @@ Test Nginx config
 Restart nginx
 
     systemctl restart nginx.service
+    
+Install additional package from R
+Run R interactive from Terminal
+> R
+> install.packages("tidyverse")
  
